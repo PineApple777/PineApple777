@@ -6,11 +6,11 @@
 
 - Hanyang University, Computer Science and Engineering, BS, 2015.03 ~ 2020. 08.
 
-- Hanyang University, Computer Software, Master Course, 2020. 09. ~
+- Hanyang University, Computer Software, MS, 2020. 09. ~ 2023. 02.
 
 #### :telescope: Research 
 
-- Deep Learning Performance
+- Deep Learning Compiler & Performance Improvement
 - Computer & Embedded System
 
 #### :wrench: Stacks
