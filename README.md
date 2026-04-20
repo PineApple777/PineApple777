@@ -8,6 +8,8 @@
 
 - Hanyang University, Computer Software, MS, 2020. 09. ~ 2023. 02.
 
+- Rebellions Inc. Software Engineer, 2022. 09. ~ 2026.04.
+
 #### :telescope: Research 
 
 - Deep Learning Compiler & Performance Improvement
