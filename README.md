@@ -10,14 +10,15 @@
 
 - Rebellions Inc. Software Engineer, 2022. 09. ~ 2026.04.
 
-#### :telescope: Research 
+#### :telescope: Research & Develop
 
 - Deep Learning Compiler & Performance Improvement
 - Computer & Embedded System
+- Devops CI/CD Engineering
 
 #### :wrench: Stacks
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white) ![C/CPP](https://img.shields.io/badge/-C&CPP-00599C?style=flat-square&logo=C&logoColor=white) ![TVM](https://img.shields.io/badge/-TVM-00599C?style=flat-square&logo=PYTHON&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white) ![C/CPP](https://img.shields.io/badge/-C&CPP-00599C?style=flat-square&logo=C&logoColor=white) ![TVM](https://img.shields.io/badge/-TVM-00599C?style=flat-square&logo=PYTHON&logoColor=white) ![Github Action Workflow](https://img.shields.io/badge/-Github%20Action%20Workflow-3776AB?style=flat-square&logo=Github&logoColor=white)
 
 #### :chart_with_upwards_trend: My Github Stats
 
